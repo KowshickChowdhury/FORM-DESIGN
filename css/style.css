@@ -1,0 +1,121 @@
+.top-area {
+	text-align: center;
+	background: #4adbdbfc;
+}
+
+.regis_text {
+	margin-bottom: 0;
+}
+
+.top-area .border-hr {
+	border: 2px solid lightblue;
+}
+
+.top-area, h1 {
+	color: ghostwhite;
+}
+
+.nameset {
+	padding: 4px;
+	border-block: 2px solid lightslategray;
+	border-radius: 6px;
+	width: 34%;
+}
+
+.form-area {
+	margin-left: 37%;
+	text-align: start;
+	padding: 40px;
+}
+
+#exampleInputEmail1 {
+	border-radius: 5px;
+	width: 35%;
+}
+
+#exampleInputPassword1 {
+	width: 35%;
+	border-radius: 5px;
+}
+
+.gender-select {
+	margin-bottom: 0;
+}
+
+.form-group {
+	margin-bottom: 25px;
+}
+
+.form-group.bd-style {
+	margin-top: 22px;
+}
+
+.control-label.Birth-day {
+	margin-top: 4%;
+}
+
+.attchment {
+	margin: 0 0 18px 0;
+}
+
+.nameset {
+	padding: 4px;
+	border-block: 2px solid lightslategray;
+	border-radius: 6px;
+}
+
+#exampleFormControlTextarea1 {
+	width: 55%;
+	padding: 70px;
+}
+
+.btn.btn-primary.buttonsub {
+	padding: 5px;
+	border-radius: 12px;
+	background-color: #69dafd;
+	border-block-color: #021a10bf;
+}
+
+.link-page {
+	color: cyan;
+	font-size: 25px;
+}
+
+
+
+
+
+.signin-form {
+	padding: 46px;
+	text-align: center;
+}
+
+.head_text {
+	margin-bottom: 65px;
+	border-block-end: 2px solid #cefff34f;
+}
+
+#exampleInputEmail1 {
+	text-align: center;
+}
+
+.section-input {
+	margin-left: 39%;
+}
+
+#exampleInputPassword1 {
+	text-align: center;
+}
+
+
+.pass_1 {
+	text-align: start;
+}
+
+.form-group.remem_check {
+	margin-right: 11%;
+}
+
+.end_text {
+	margin-top: 25px;
+}
